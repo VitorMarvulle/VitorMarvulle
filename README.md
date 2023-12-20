@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-# Hi, I'm Vitor Marvulle :)
+# Hi, I'm Vitor :)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BFC9CA&size=35&center=false&vCenter=true&width=1000&lines=I'm+a+Software+Multiplataform+Development+student;Be+welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
