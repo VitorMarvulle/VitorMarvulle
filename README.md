@@ -9,7 +9,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app?username=VitorMarvulle&show_icons=true&count_private=true&hide_border=true&title_color=D7DBDD&icon_color=5DADE2&text_color=808B96&bg_color=0d1117" alt="Vitor Marvulle github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorMarvulle&show_icons=true&count_private=true&hide_border=true&title_color=D7DBDD&icon_color=5DADE2&text_color=808B96&bg_color=0d1117" alt="Vitor Marvulle github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMarvulle&layout=compact&hide_border=true&title_color=D7DBDD&text_color=95A5A6&bg_color=0d1117" />
 </div>
 
