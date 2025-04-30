@@ -2,7 +2,7 @@
 
 # Hi, I'm Vitor :)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BFC9CA&size=35&center=false&vCenter=true&width=1000&lines=I'm+a+Software+Multiplataform+Development+student;Be+welcome+to+my+GitHub!👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BFC9CA&size=35&center=false&vCenter=true&width=1000&lines=Be+welcome+to+my+GitHub!👋)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vitormarvulle)
 ![](https://komarev.com/ghpvc/?username=VitorMarvulle)
